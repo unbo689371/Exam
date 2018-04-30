@@ -27,4 +27,15 @@ if nth%2 == 0 or n1%2==0 or n2%2 ==0:
     print(sum)
 else:
     print('奇數')
+    
+
+a1 = 1
+a2 = 1
+while a3<4000000:
+    a3 +=1
+for i in range(3, 101):
+        a3 = a1 + a2
+        print(a3)
+        a1 = a2
+        a2 = a3
         
