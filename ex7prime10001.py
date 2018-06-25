@@ -13,3 +13,5 @@ while count<10001:
     if count!=10001:
         i=i+1
 print(i)
+
+#ANS=104743
